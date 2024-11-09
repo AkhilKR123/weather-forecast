@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  #weatherResult {
+    margin-top: 20px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  .card-text {
+    font-size: 18px;
+  }
+
+
+  
